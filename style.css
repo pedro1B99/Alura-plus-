@@ -25,7 +25,7 @@ background-size:contain ;
 .container {
 height:100vh;
 display: grid;
- grid-template-columns: 10% 10
+ grid-template-columns: 40% 40%
  %;
  }
 
@@ -37,5 +37,8 @@ display: grid;
     display: block;
   }
   botao_secundario-{
-
+    
   }
+
+
+  
