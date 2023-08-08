@@ -33,4 +33,5 @@ display: grid;
     border-radius: 16px;
     padding: lem;
     color: var(--branco-principal);
+    display: block;
   }
